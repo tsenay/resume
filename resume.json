@@ -1,0 +1,220 @@
+{
+    "basics": {
+        "name": "Thomas Senay",
+        "label": "D\u00c3\u00a9veloppeur infrastructures IT",
+        "picture": "",
+        "email": "thomas.senay@me.com",
+        "phone": "+33 6 67 87 62 55",
+        "website": "https://github.com/tsenay",
+        "summary": "Je fournis une expertise dans ces domaines techniques\n-Infra as Code (Conteneurs, virtualisation, Cloud)\n-Architectures IT sur greenfield / brownfield\n-Conception et mise en \u00c5\u201cuvre de CI / CD pour tout type de logiciels\n-Coaching pour la mise en \u00c5\u201cuvre les processus et les outils pour la transition vers le devops\n",
+        "location": {
+            "address": "2 route de Courthezon",
+            "postalCode": 84230,
+            "city": "Chateauneuf du Pape",
+            "countryCode": "FR",
+            "region": "PACA"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "tsenayconsulting",
+                "url": "https://www.linkedin.com/in/tsenayconsulting/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Klanik",
+            "position": "Consultant",
+            "website": "http://www.klanik.com",
+            "startDate": "2019-04-01",
+            "endDate": "",
+            "summary": "Mise en oeuvre d'une plateforme InfraAsCode",
+            "highlights": [
+                "D\u00c3\u00a9veloppement d'une manufacture d'images syst\u00c3\u00a8me",
+                "D\u00c3\u00a9veloppement d'outils de provisionning d'infrastructure pour cloud Priv\u00c3\u00a9/Public"
+            ]
+        },
+        {
+            "company": "Freelance",
+            "position": "Consultant",
+            "website": "",
+            "startDate": "2017-07-01",
+            "endDate": "2019-03-31",
+            "summary": "Missions d'expertise d'infrastructure IT",
+            "highlights": [
+                "D\u00c3\u00a9veloppement d'outils pour IaaS",
+                "Mise en oeuvre d'usines logicielles",
+                "D\u00c3\u00a9veloppement de tests de performance",
+                "Optimisation des performances pour logiciels et infrastructures"
+            ]
+        },
+        {
+            "company": "QIM Info",
+            "position": "Architecte syst\u00c3\u00a8me",
+            "website": "https://www.sitaonair.aero/products/on-board-device-applications-and-services/internet-onair/",
+            "startDate": "2015-06-01",
+            "endDate": "2017-06-30",
+            "summary": "Consultant IT",
+            "highlights": [
+                "Installation et configuration de mat\u00c3\u00a9riel en DataCenter (chassis, serveur, stockage)",
+                "Installation et support de services IT de management (DNS, proxy, sauvegardes, virtualisation, supervision)",
+                "D\u00c3\u00a9veloppement d'outil de provisioning de machines virtuelles",
+                "Mise en oeuvre d'un environnement sur Cloud Public (SITA Cloud)",
+                "Manage continuous integration infrastructure and development tools",
+                "Conception, impl\u00c3\u00a9mentation et support de la plateforme 'Internet ONAIR'"
+            ]
+        },
+        {
+            "company": "Hays",
+            "position": "Consultant IT",
+            "website": "https://www.avaloq.com/en/software-as-a-service",
+            "startDate": "2014-09-01",
+            "endDate": "2014-12-31",
+            "summary": "Migration d'une plateforme WebLogic",
+            "highlights": [
+                "D\u00c3\u00a9veloppement d'outils de migration de middleware JEE",
+                "D\u00c3\u00a9veloppement de la CMDB automatis\u00c3\u00a9e du middleware JEE"
+            ]
+        },
+        {
+            "company": "JPL SA",
+            "position": "Consultant IT",
+            "website": "https://www.group.pictet/fr/wealth-management",
+            "startDate": "2012-03-01",
+            "endDate": "2014-06-30",
+            "summary": "Mise en oeuvre du CI/CD d'un gestionnaire de portefeuille bancaire (PMS)",
+            "highlights": [
+                "Impl\u00c3\u00a9mentation et support de l'usine logicielle",
+                "Mise en oeuvre du d\u00c3\u00a9ploiement automatis\u00c3\u00a9 du PMS (client et serveur)",
+                "Impl\u00c3\u00a9mentation d'un gestionnaire de release (matrice et outils)"
+            ]
+        },
+        {
+            "company": "Sogeti",
+            "position": "Consultant IT",
+            "website": "",
+            "startDate": "2010-07-01",
+            "endDate": "2012-02-28",
+            "summary": "Int\u00c3\u00a9grateur JEE",
+            "highlights": [
+                "Int\u00c3\u00a9gration d'applications dans le SI de l'etat de Gen\u00c3\u00a8ve",
+                "Automatisation des d\u00c3\u00a9ploiements des middleware"
+            ]
+        },
+        {
+            "company": "ITAC SA",
+            "position": "Consultant IT",
+            "website": "",
+            "startDate": "2009-11-01",
+            "endDate": "2010-06-30",
+            "summary": "Int\u00c3\u00a9grateur",
+            "highlights": [
+                "Int\u00c3\u00a9gration d'applications dans le SI du canton de Vaud"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "IUT Blagnac",
+            "area": "D\u00c3\u00a9veloppement logiciel",
+            "studyType": "Bachelor",
+            "startDate": "1997-09-01",
+            "endDate": "2000-06-30",
+            "gpa": null,
+            "courses": [
+                "D\u00c3\u00a9veloppement en langage objet",
+                "M\u00c3\u00a9thodologies de conceptions de SI"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "InfraAsCode",
+            "level": "Expert",
+            "keywords": [
+                "terraform",
+                "packer",
+                "vault",
+                "ansible",
+                "puppet",
+                "saltstack",
+                "consul"
+            ]
+        },
+        {
+            "name": "Mat\u00c3\u00a9riel",
+            "level": "Expert",
+            "keywords": [
+                "IBM Bladecenter",
+                "Lenovo Flex System Chassis",
+                "HP Proliant",
+                "IBM Storwize v3700"
+            ]
+        },
+        {
+            "name": "Virtualisation",
+            "level": "Expert",
+            "keywords": [
+                "kvm",
+                "vsphere",
+                "virtualbox",
+                "docker"
+            ]
+        },
+        {
+            "name": "Developpement",
+            "level": "Expert",
+            "keywords": [
+                "python",
+                "ruby"
+            ]
+        },
+        {
+            "name": "Software Factory",
+            "level": "Expert",
+            "keywords": [
+                "gitlab",
+                "jenkins",
+                "sonarr",
+                "testinfra",
+                "Sonatype Nexus",
+                "Atlassian bitbucket",
+                "Atlassian Bamboo"
+            ]
+        },
+        {
+            "name": "Gestion de projet",
+            "level": "Expert",
+            "keywords": [
+                "Agile",
+                "scrum",
+                "JIRA",
+                "Confluence",
+                "trello"
+            ]
+        },
+        {
+            "name": "Middleware",
+            "level": "Expert",
+            "keywords": [
+                "Tomcat",
+                "Jboss",
+                "HAProxy",
+                "RabbitMQ",
+                "RubyOnRail",
+                "SpringBoot"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Francais",
+            "fluency": "C2"
+        },
+        {
+            "language": "Anglais",
+            "fluency": "C1"
+        }
+    ]
+}
