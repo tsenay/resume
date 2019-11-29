@@ -2,7 +2,7 @@ basics:
   name: Thomas Senay
   label: Développeur infrastructures IT
   picture: ''
-  email: thomas.senay@me.com
+  email: tsenay.consulting@icloud.com
   phone: +33 6 67 87 62 55
   website: https://github.com/tsenay
   summary: |
@@ -12,16 +12,16 @@ basics:
     -Conception et mise en œuvre de CI / CD pour tout type de logiciels
     -Coaching pour la mise en œuvre les processus et les outils pour la transition vers le devops
 
-  location:
-    address: 2 route de Courthezon
-    postalCode: 84230
-    city: Chateauneuf du Pape
-    countryCode: FR
-    region: PACA
-  profiles:
-    - network: LinkedIn
-      username: tsenayconsulting
-      url: https://www.linkedin.com/in/tsenayconsulting/
+location:
+  address: 2 route de Courthezon
+  postalCode: 84230
+  city: Chateauneuf du Pape
+  countryCode: FR
+  region: PACA
+profiles:
+  - network: LinkedIn
+    username: tsenayconsulting
+    url: https://www.linkedin.com/in/tsenayconsulting/
 work:
   - company: Klanik
     position: Consultant
